@@ -1,2 +1,4 @@
 # hello-world-
-training
+HI , YFJ
+i like node.js
+
